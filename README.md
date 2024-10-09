@@ -1,6 +1,6 @@
 # Localisation-precision
 
-This repository contains the the files necessary to assess the real experimental error in your superresolution  system
+This repository contains the the files necessary to assess the experimental localisation error in superresolution microscopy
 
 # Requirements
 This software was tested using `Python 3.7.4`, `numpy 1.21.5`, `scipy 1.3.1` and `skimage 0.15.0`
