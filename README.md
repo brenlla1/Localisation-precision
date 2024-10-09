@@ -5,7 +5,6 @@ This repository contains the the files necessary to assess the experimental loca
 # Requirements
 This software was tested using `Python 3.7.4`, `numpy 1.21.5`, `scipy 1.3.1` and `skimage 0.15.0`
 
-
 # Instructions
 
 Run the program `fit_rois_mle_ls.py` and then run command:
@@ -19,7 +18,7 @@ Where `file` is a string with the full path of _.tif_ image file containing bead
 `EM_gain` is the real camera gain, in case camera has no gain, set to 1.
 
 For data analysis, ensure each folder only contains one _.tif_ image file
-After the fitting is done, 3 _.npz_ files with the results are created in the same folder of the _.tif_ file
+After the fitting is done, 3 _.npz_ files with the results are created in the same folder of the _.tif_ file.
 Place the Jupyter notebook `comparison-experimental-theoretical-precision.ipynb` in the same folder as the data and run it.
 
 
