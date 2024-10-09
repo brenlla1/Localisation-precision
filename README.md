@@ -1,7 +1,7 @@
 # Localisation-precision
 
 This repository contains the the files necessary to assess the experimental localisation error in superresolution microscopy.  
-You need a _.tif_ file with an image stack of surface-immobilized fluorescent beads  
+It requires a _.tif_ file with an image stack of surface-immobilized fluorescent beads  
 
 
 # Requirements
